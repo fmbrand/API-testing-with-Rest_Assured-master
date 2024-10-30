@@ -18,3 +18,9 @@ To get started with this project, clone the repository and install the necessary
 ```bash
 git clone https://github.com/yourusername/API-testing-with-Rest_Assured.git
 ```
+## Dependencies
+This project uses the following dependencies:
+
+ - Rest Assured - For API request handling and response validation.
+ - JUnit/TestNG - For managing test cases.
+ - Maven - For dependency management.
