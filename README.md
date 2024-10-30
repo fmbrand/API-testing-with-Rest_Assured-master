@@ -11,3 +11,10 @@ This project provides a foundation for automated API testing using Rest Assured 
 - [Configurations](#configurations)
 - [Contributing](#contributing)
 - [License](#license)
+## Getting Started
+
+To get started with this project, clone the repository and install the necessary dependencies.
+
+```bash
+git clone https://github.com/yourusername/API-testing-with-Rest_Assured.git
+```
