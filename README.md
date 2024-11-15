@@ -43,15 +43,15 @@ Contributions are welcome! To contribute:
 
 Fork this repository.
 Create a new branch:
-    ```
-    git checkout -b feature-branch
-    ```
-Commit your changes:
-    ```
-    git commit -m "Add meaningful commit message"
-    ```
-Push your branch:
+```bash
+git checkout -b feature-branch
 ```
+Commit your changes:
+```bash
+git commit -m "Add meaningful commit message"
+```
+Push your branch:
+```bash
 git push origin feature-branch
 ```
 Open a Pull Request.
