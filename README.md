@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# # API Testing with Rest Assured
+## API Testing with Rest Assured
 =======
 This project provides a foundation for automated API testing using Rest Assured with Java. It includes setup instructions, configuration details, and sample tests.
 # Table of Contents
@@ -45,10 +43,15 @@ Contributions are welcome! To contribute:
 
 Fork this repository.
 Create a new branch:
-bash
-git checkout -b feature-branch
+    ```
+    git checkout -b feature-branch
+    ```
 Commit your changes:
-git commit -m "Add meaningful commit message"
+    ```
+    git commit -m "Add meaningful commit message"
+    ```
 Push your branch:
+```
 git push origin feature-branch
+```
 Open a Pull Request.
