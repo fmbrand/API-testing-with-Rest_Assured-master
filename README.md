@@ -7,8 +7,6 @@ This project provides a foundation for automated API testing using Rest Assured 
 - [Dependencies](#dependencies)
 - [Running the Tests](#running-the-tests)
 - [Configurations](#configurations)
-- [Contributing](#contributing)
-- [License](#license)
 ## Getting Started
 
 To get started with this project, clone the repository and install the necessary dependencies.
